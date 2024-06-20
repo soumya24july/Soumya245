@@ -17,6 +17,7 @@ public class practice {
 					int temp=a[i];
 					a[i]=a[j];
 					a[j]=temp;
+					//A[j+1]=tempa
 				}
 				
 			}
