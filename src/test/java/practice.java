@@ -18,6 +18,7 @@ public class practice {
 					a[i]=a[j];
 					a[j]=temp;
 					//A[j+1]=tempa
+					//Soumya
 				}
 				
 			}
